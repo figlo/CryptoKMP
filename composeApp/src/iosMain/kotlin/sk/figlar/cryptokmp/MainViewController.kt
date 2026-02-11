@@ -1,4 +1,4 @@
-package sk.figlar.crypto
+package sk.figlar.cryptokmp
 
 import androidx.compose.ui.window.ComposeUIViewController
 

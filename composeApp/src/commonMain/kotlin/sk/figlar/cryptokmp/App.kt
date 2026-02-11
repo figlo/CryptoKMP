@@ -1,4 +1,4 @@
-package sk.figlar.crypto
+package sk.figlar.cryptokmp
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image

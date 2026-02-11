@@ -1,4 +1,4 @@
-package sk.figlar.crypto
+package sk.figlar.cryptokmp
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

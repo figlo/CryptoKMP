@@ -1,4 +1,4 @@
-package sk.figlar.crypto
+package sk.figlar.cryptokmp
 
 interface Platform {
     val name: String
